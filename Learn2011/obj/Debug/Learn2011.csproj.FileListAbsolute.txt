@@ -1,0 +1,75 @@
+C:\C# projects\Learn2011\Learn2011\bin\Debug\Learn2011.exe.config
+C:\C# projects\Learn2011\Learn2011\bin\Debug\Learn2011.exe
+C:\C# projects\Learn2011\Learn2011\bin\Debug\Learn2011.pdb
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.AssemblyReference.cache
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.SuggestedBindingRedirects.cache
+C:\C# projects\Learn2011\Learn2011\obj\Debug\AppWindows\ProfileWindow.g.cs
+C:\C# projects\Learn2011\Learn2011\obj\Debug\MainWindow.g.cs
+C:\C# projects\Learn2011\Learn2011\obj\Debug\App.g.cs
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011_MarkupCompile.cache
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011_MarkupCompile.lref
+C:\C# projects\Learn2011\Learn2011\obj\Debug\MainWindow.baml
+C:\C# projects\Learn2011\Learn2011\obj\Debug\AppWindows\ProfileWindow.baml
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.g.resources
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.Properties.Resources.resources
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.GenerateResource.cache
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.CoreCompileInputs.cache
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.exe
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Learn2011.pdb
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Pages\LoginPage.g.cs
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Pages\MainMenuPage.g.cs
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Pages\LoginPage.baml
+C:\C# projects\Learn2011\Learn2011\obj\Debug\Pages\MainMenuPage.baml
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\bin\Debug\Learn2011.exe.config
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\bin\Debug\Learn2011.exe
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\bin\Debug\Learn2011.pdb
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.AssemblyReference.cache
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\AppWindows\ProfileWindow.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\MainWindow.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\LoginPage.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\MainMenuPage.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\App.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011_MarkupCompile.cache
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011_MarkupCompile.lref
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\AppWindows\ProfileWindow.baml
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\MainWindow.baml
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\LoginPage.baml
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\MainMenuPage.baml
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.g.resources
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.Properties.Resources.resources
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.GenerateResource.cache
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.csproj.CoreCompileInputs.cache
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.exe
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Learn2011.pdb
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\PageUser.g.cs
+Y:\Фокавин Евгений\3 курс\Learn2011\Learn2011\obj\Debug\Pages\PageUser.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\Learn2011.exe.config
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\Learn2011.exe
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\Learn2011.pdb
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.csproj.AssemblyReference.cache
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\AppWindows\ProfileWindow.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\MainWindow.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\LoginPage.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\MainMenuPage.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\PageUser.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\App.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011_MarkupCompile.cache
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011_MarkupCompile.lref
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\AppWindows\ProfileWindow.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\MainWindow.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\LoginPage.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\MainMenuPage.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Pages\PageUser.baml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.g.resources
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.Properties.Resources.resources
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.csproj.GenerateResource.cache
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.csproj.CoreCompileInputs.cache
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.exe
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.pdb
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\EntityFramework.dll
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\EntityFramework.SqlServer.dll
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\EntityFramework.xml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\EntityFramework.SqlServer.xml
+Y:\Амосов Александр\4 kyrs((((\Learn2011\bin\Debug\ru\EntityFramework.resources.dll
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011_Content.g.cs
+Y:\Амосов Александр\4 kyrs((((\Learn2011\obj\Debug\Learn2011.csproj.CopyComplete
